@@ -1,4 +1,4 @@
-Regression Examples
+# Regression Examples
 
 This repository contains various regression examples implemented in Python using popular machine learning libraries such as scikit-learn, TensorFlow, and PyTorch. The purpose of this repository is to provide a comprehensive collection of regression algorithms for practitioners and students to learn from and use as reference in their own projects.
 
